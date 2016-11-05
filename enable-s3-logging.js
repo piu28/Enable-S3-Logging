@@ -1,6 +1,4 @@
 var aws = require('aws-sdk')
-var fs = require('fs')
-var sleep = require('sleep')
 var lineReader = require('line-reader')
 aws.config.region = 'us-east-1'
 aws.config.update({
