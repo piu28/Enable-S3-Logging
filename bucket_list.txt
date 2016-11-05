@@ -1,0 +1,5 @@
+bucket01,None
+bucket02,None
+bucket03,ap-south-1
+bucket04,ap-southeast-1
+bucket05,ap-southeast-1
